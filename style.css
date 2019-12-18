@@ -1,9 +1,5 @@
 .input-row {
-  margin: 10px 0;
-}
-
-.blocks-with-inputs .input-row:first-of-type {
-  margin: 0;
+  margin-bottom: 10px;
 }
 
 .blocks-with-inputs .input-row:last-of-type {
